@@ -1,0 +1,59 @@
+body {
+  font-family: "Raleway", sans-serif;
+  
+}
+
+h1 {
+    font-size: 45px;
+    text-transform: uppercase;
+    color: rgb(59, 58, 58);
+}
+
+p {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(24, 56, 82);
+    letter-spacing: 1px;
+}
+
+img {
+  border-radius: 15px 80px 15px 80px;
+  width: 40%;
+  opacity: 40%;
+}
+
+img:hover {
+  opacity: 100%;
+  transition: 1s;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(48, 86, 117);
+    letter-spacing: 1px;
+}
+
+ol, ul {
+  list-style: inside;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    color: rgb(24, 56, 82);
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    transition: 0.5s;
+    text-decoration: underline;
+}
